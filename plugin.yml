@@ -1,0 +1,7 @@
+---
+name: Practice
+main: practice\Main
+version: 4.0.0
+api: 3.0.0
+authors: [WexIsARetard, Matrox]
+...
